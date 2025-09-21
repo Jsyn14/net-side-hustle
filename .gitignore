@@ -1,0 +1,6 @@
+captures/
+*.pcap
+*.pcapng
+*.tmp
+.DS_Store
+Thumbs.db
