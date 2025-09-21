@@ -1,7 +1,7 @@
 # Week 1 – Discovery
 ## Router (Default Gateway)
 - Windows gateway: <paste here>
-- Phone gateway (Termux): <paste here>
+- Phone gateway: <paste here>
 - Pi gateway: <paste here>
 ## Device IPs
 - Laptop IPv4: <paste>
